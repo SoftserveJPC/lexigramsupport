@@ -1,0 +1,104 @@
+{
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2025",
+    "intro": "Ihre Privatsphäre ist uns wichtig. Diese Datenschutzrichtlinie erklärt, wie unsere App mit Ihren Informationen umgeht.",
+    "sections": {
+      "1": {
+        "heading": "1. Gesammelte Informationen",
+        "paragraphs": [
+          "Derzeit sammelt, speichert oder teilt unsere App keine personenbezogenen Daten auf unseren Servern. Alle innerhalb der App generierten Daten (wie Einstellungen, Präferenzen oder Fortschritt) werden nur lokal auf Ihrem Gerät gespeichert.",
+          "In Zukunft können wir eine Geräte-ID (Device ID) sammeln, um die Leistung der App zu verbessern und Benutzersitzungen zu verwalten. Falls wir dies tun, werden diese Informationen:"
+        ],
+        "list": [
+          "Nur für die Funktionalität der App verwendet (z. B. Synchronisierung von Daten oder Verwaltung von Abonnements),",
+          "Nie an Dritte verkauft oder weitergegeben,",
+          "Sicher gespeichert."
+        ]
+      },
+      "2": {
+        "heading": "2. Drittanbieter-Dienste",
+        "paragraphs": [
+          "Derzeit verwenden wir keine Analyse-, Tracking- oder Werbetools von Drittanbietern. Falls sich dies ändert, aktualisieren wir diese Richtlinie, um genau zu erklären, was verwendet wird und warum."
+        ]
+      },
+      "3": {
+        "heading": "3. Datensicherheit",
+        "paragraphs": [
+          "Da Ihre Daten auf Ihrem Gerät gespeichert werden, haben Sie die Kontrolle darüber. Das Löschen der App entfernt alle lokalen Daten."
+        ]
+      },
+      "4": {
+        "heading": "4. Änderungen dieser Richtlinie",
+        "paragraphs": [
+          "Wir können diese Datenschutzrichtlinie gelegentlich aktualisieren, um Verbesserungen oder neue Funktionen widerzuspiegeln. Die neueste Version ist immer in der App verfügbar."
+        ]
+      },
+      "5": {
+        "heading": "5. Kontakt",
+        "paragraphs": [
+          "Wenn Sie Fragen oder Bedenken zu Ihrer Privatsphäre haben, kontaktieren Sie uns unter:"
+        ],
+        "contact": "lexigramapp@outlook.com"
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2025",
+    "intro": "Willkommen in unserer App! Diese Nutzungsbedingungen (\"Bedingungen\") beschreiben die Regeln und Richtlinien für die Nutzung unserer App und damit verbundener Dienste. Durch die Nutzung der App stimmen Sie diesen Bedingungen zu.",
+    "sections": {
+      "1": {
+        "heading": "1. Nutzung der App",
+        "paragraphs": [
+          "Sie stimmen zu, die App nur für rechtmäßige Zwecke und in einer Weise zu nutzen, die die Rechte anderer nicht verletzt oder die Nutzung der App durch andere nicht einschränkt oder verhindert."
+        ]
+      },
+      "2": {
+        "heading": "2. Benutzerdaten und Datenschutz",
+        "paragraphs": [
+          "Wir nehmen Ihre Privatsphäre ernst. Unsere App speichert derzeit Daten nur auf Ihrem Gerät und sammelt keine personenbezogenen Daten auf unseren Servern. Bitte lesen Sie unsere Datenschutzrichtlinie für weitere Details."
+        ]
+      },
+      "3": {
+        "heading": "3. Geistiges Eigentum",
+        "paragraphs": [
+          "Alle Inhalte, Funktionen und Merkmale der App (einschließlich Text, Design und Code) gehören den Entwicklern der App oder deren Lizenzgebern. Sie dürfen keine Teile der App ohne Erlaubnis für kommerzielle Zwecke kopieren, ändern oder verbreiten."
+        ]
+      },
+      "4": {
+        "heading": "4. Haftungsausschluss",
+        "paragraphs": [
+          "Die App wird „wie besehen“ und „wie verfügbar“ bereitgestellt. Wir übernehmen keine Garantie für Zuverlässigkeit, Leistung oder Verfügbarkeit. Sie nutzen die App auf eigenes Risiko."
+        ]
+      },
+      "5": {
+        "heading": "5. Haftungsbeschränkung",
+        "paragraphs": [
+          "Im gesetzlich zulässigen Umfang haften wir nicht für direkte, indirekte oder Folgeschäden, die aus der Nutzung der App entstehen, einschließlich, aber nicht beschränkt auf Datenverlust, Geräteschäden oder Unterbrechungen des Dienstes."
+        ]
+      },
+      "6": {
+        "heading": "6. Änderungen dieser Bedingungen",
+        "paragraphs": [
+          "Wir können diese Bedingungen gelegentlich aktualisieren, um App-Updates oder Richtlinienänderungen widerzuspiegeln. Die fortgesetzte Nutzung der App nach Änderungen bedeutet, dass Sie die neuen Bedingungen akzeptieren."
+        ]
+      },
+      "7": {
+        "heading": "7. Kontakt",
+        "paragraphs": [
+          "Wenn Sie Fragen zu diesen Bedingungen haben, wenden Sie sich bitte an:"
+        ],
+        "contact": "lexigramapp@outlook.com"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "labelEmail": "Ihre E-Mail",
+    "placeholderEmail": "Geben Sie Ihre E-Mail ein",
+    "buttonSend": "E-Mail senden",
+    "emailSubject": "Kontaktanfrage",
+    "emailBody": "Meine E-Mail: "
+  }
+}

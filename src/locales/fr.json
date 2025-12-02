@@ -1,0 +1,104 @@
+{
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : octobre 2025",
+    "intro": "Votre vie privée est importante pour nous. Cette politique de confidentialité explique comment notre application gère vos informations.",
+    "sections": {
+      "1": {
+        "heading": "1. Informations que nous collectons",
+        "paragraphs": [
+          "À ce jour, notre application ne collecte, ne stocke ni ne partage aucune information personnelle sur nos serveurs. Toutes les données générées dans l'application (telles que les préférences, les paramètres ou la progression) sont stockées localement sur votre appareil uniquement.",
+          "À l'avenir, nous pourrions collecter un identifiant de l'appareil (ID de l'appareil) pour nous aider à améliorer les performances de l'application et à maintenir les sessions utilisateur. Si nous le faisons, ces informations seront :"
+        ],
+        "list": [
+          "Utilisées uniquement pour le fonctionnement de l'application (par exemple, synchronisation des données ou gestion des abonnements),",
+          "Jamais vendues ou partagées avec des tiers,",
+          "Stockées de manière sécurisée."
+        ]
+      },
+      "2": {
+        "heading": "2. Services tiers",
+        "paragraphs": [
+          "Nous n'utilisons actuellement aucun outil tiers d'analyse, de suivi ou de publicité. Si cela change, nous mettrons à jour cette politique pour expliquer exactement ce qui est utilisé et pourquoi."
+        ]
+      },
+      "3": {
+        "heading": "3. Sécurité des données",
+        "paragraphs": [
+          "Comme vos données sont stockées sur votre appareil, vous en avez le contrôle. La suppression de l'application supprimera toutes les données locales associées."
+        ]
+      },
+      "4": {
+        "heading": "4. Modifications de cette politique",
+        "paragraphs": [
+          "Nous pouvons mettre à jour cette politique de confidentialité de temps en temps pour refléter les améliorations ou les nouvelles fonctionnalités. La dernière version sera toujours disponible dans l'application."
+        ]
+      },
+      "5": {
+        "heading": "5. Contact",
+        "paragraphs": [
+          "Si vous avez des questions ou des préoccupations concernant votre vie privée, veuillez nous contacter à :"
+        ],
+        "contact": "lexigramapp@outlook.com"
+      }
+    }
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : octobre 2025",
+    "intro": "Bienvenue dans notre application ! Ces conditions d'utilisation (\"Conditions\") décrivent les règles et directives pour utiliser notre application et les services associés. En utilisant l'application, vous acceptez ces Conditions.",
+    "sections": {
+      "1": {
+        "heading": "1. Utilisation de l'application",
+        "paragraphs": [
+          "Vous acceptez d'utiliser l'application uniquement à des fins légales et d'une manière qui ne porte pas atteinte aux droits d'autrui ni ne restreigne ou n'empêche l'utilisation et l'appréciation de l'application par d'autres personnes."
+        ]
+      },
+      "2": {
+        "heading": "2. Données utilisateur et confidentialité",
+        "paragraphs": [
+          "Nous prenons votre vie privée au sérieux. Notre application stocke actuellement les données uniquement sur votre appareil et ne collecte pas d'informations personnelles sur nos serveurs. Veuillez consulter notre politique de confidentialité pour plus de détails sur la manière dont vos données sont traitées."
+        ]
+      },
+      "3": {
+        "heading": "3. Propriété intellectuelle",
+        "paragraphs": [
+          "Tout le contenu, les fonctionnalités et les fonctionnalités de l'application (y compris le texte, le design et le code) sont la propriété des développeurs de l'application ou de leurs concédants. Vous ne pouvez pas copier, modifier, distribuer ou utiliser une partie de l'application à des fins commerciales sans autorisation."
+        ]
+      },
+      "4": {
+        "heading": "4. Avertissement",
+        "paragraphs": [
+          "L'application est fournie « telle quelle » et « selon disponibilité ». Nous ne garantissons pas sa fiabilité, ses performances ou sa disponibilité. Vous utilisez l'application à vos propres risques."
+        ]
+      },
+      "5": {
+        "heading": "5. Limitation de responsabilité",
+        "paragraphs": [
+          "Dans toute la mesure permise par la loi, nous ne sommes pas responsables des dommages directs, indirects ou consécutifs résultant de votre utilisation de l'application, y compris, mais sans s'y limiter, la perte de données, les dommages matériels ou les interruptions de service."
+        ]
+      },
+      "6": {
+        "heading": "6. Modifications de ces conditions",
+        "paragraphs": [
+          "Nous pouvons mettre à jour ces Conditions de temps en temps pour refléter les mises à jour de l'application ou les modifications de la politique. L'utilisation continue de l'application après les modifications signifie que vous acceptez les nouvelles Conditions."
+        ]
+      },
+      "7": {
+        "heading": "7. Contactez-nous",
+        "paragraphs": [
+          "Si vous avez des questions concernant ces Conditions, n'hésitez pas à nous contacter à :"
+        ],
+        "contact": "lexigramapp@outlook.com"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "labelEmail": "Votre e-mail",
+    "placeholderEmail": "Entrez votre e-mail",
+    "buttonSend": "Envoyer l'e-mail",
+    "emailSubject": "Demande de contact",
+    "emailBody": "Mon e-mail : "
+  }
+}

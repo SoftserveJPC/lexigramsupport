@@ -1,0 +1,104 @@
+{
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: octubre 2025",
+    "intro": "Su privacidad es importante para nosotros. Esta Política de privacidad explica cómo nuestra aplicación maneja su información.",
+    "sections": {
+      "1": {
+        "heading": "1. Información que recopilamos",
+        "paragraphs": [
+          "Actualmente, nuestra aplicación no recopila, almacena ni comparte información personal en nuestros servidores. Todos los datos generados dentro de la aplicación (como preferencias, configuraciones o progreso) se almacenan únicamente en su dispositivo.",
+          "En el futuro, podríamos recopilar un identificador de dispositivo (ID de dispositivo) para ayudarnos a mejorar el rendimiento de la aplicación y mantener las sesiones de los usuarios. Si lo hacemos, esta información será:"
+        ],
+        "list": [
+          "Usada solo para la funcionalidad de la aplicación (por ejemplo, sincronización de datos o gestión de suscripciones),",
+          "Nunca vendida ni compartida con terceros,",
+          "Almacenada de manera segura."
+        ]
+      },
+      "2": {
+        "heading": "2. Servicios de terceros",
+        "paragraphs": [
+          "Actualmente no utilizamos herramientas de análisis, seguimiento o publicidad de terceros. Si esto cambia, actualizaremos esta política para explicar exactamente qué se utiliza y por qué."
+        ]
+      },
+      "3": {
+        "heading": "3. Seguridad de los datos",
+        "paragraphs": [
+          "Dado que sus datos se almacenan en su dispositivo, usted los controla. Eliminar la aplicación eliminará todos los datos locales asociados."
+        ]
+      },
+      "4": {
+        "heading": "4. Cambios en esta política",
+        "paragraphs": [
+          "Podemos actualizar esta Política de privacidad ocasionalmente para reflejar mejoras o nuevas funciones. La última versión siempre estará disponible en la aplicación."
+        ]
+      },
+      "5": {
+        "heading": "5. Contacto",
+        "paragraphs": [
+          "Si tiene alguna pregunta o inquietud sobre su privacidad, contáctenos en:"
+        ],
+        "contact": "lexigramapp@outlook.com"
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "lastUpdated": "Última actualización: octubre 2025",
+    "intro": "¡Bienvenido a nuestra aplicación! Estos Términos de servicio (\"Términos\") describen las reglas y directrices para usar nuestra aplicación y los servicios relacionados. Al usar la aplicación, usted acepta estos Términos.",
+    "sections": {
+      "1": {
+        "heading": "1. Uso de la aplicación",
+        "paragraphs": [
+          "Usted acepta usar la aplicación únicamente para fines legales y de manera que no infrinja los derechos de otros ni restrinja o impida el uso y disfrute de la aplicación por parte de otros."
+        ]
+      },
+      "2": {
+        "heading": "2. Datos del usuario y privacidad",
+        "paragraphs": [
+          "Nos tomamos su privacidad en serio. Nuestra aplicación actualmente almacena los datos solo en su dispositivo y no recopila información personal en nuestros servidores. Consulte nuestra Política de privacidad para obtener más detalles sobre cómo se manejan sus datos."
+        ]
+      },
+      "3": {
+        "heading": "3. Propiedad intelectual",
+        "paragraphs": [
+          "Todo el contenido, funciones y características de la aplicación (incluido el texto, diseño y código) son propiedad de los desarrolladores de la aplicación o sus licenciantes. No puede copiar, modificar, distribuir ni usar ninguna parte de la aplicación con fines comerciales sin permiso."
+        ]
+      },
+      "4": {
+        "heading": "4. Descargo de responsabilidad",
+        "paragraphs": [
+          "La aplicación se proporciona \"tal cual\" y \"según disponibilidad\". No garantizamos su fiabilidad, rendimiento o disponibilidad. Usted usa la aplicación bajo su propio riesgo."
+        ]
+      },
+      "5": {
+        "heading": "5. Limitación de responsabilidad",
+        "paragraphs": [
+          "En la máxima medida permitida por la ley, no somos responsables de ningún daño directo, indirecto o consecuente que surja de su uso de la aplicación, incluidos, entre otros, la pérdida de datos, daños al dispositivo o interrupciones del servicio."
+        ]
+      },
+      "6": {
+        "heading": "6. Cambios en estos términos",
+        "paragraphs": [
+          "Podemos actualizar estos Términos ocasionalmente para reflejar actualizaciones de la aplicación o cambios en la política. El uso continuo de la aplicación después de los cambios significa que usted acepta los nuevos Términos."
+        ]
+      },
+      "7": {
+        "heading": "7. Contáctenos",
+        "paragraphs": [
+          "Si tiene alguna pregunta sobre estos Términos, no dude en comunicarse con nosotros en:"
+        ],
+        "contact": "lexigramapp@outlook.com"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "labelEmail": "Su correo electrónico",
+    "placeholderEmail": "Ingrese su correo electrónico",
+    "buttonSend": "Enviar correo",
+    "emailSubject": "Solicitud de contacto",
+    "emailBody": "Mi correo electrónico: "
+  }
+}
