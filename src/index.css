@@ -1,0 +1,53 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.root-container{
+    max-width: 50rem;
+    margin-inline: auto;
+}
+
+/*contact*/
+.contact-container {
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: #f7f7f7;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.app-icon{
+    width: 5rem;
+    border-radius: 0.3rem;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact-form label {
+    font-weight: bold;
+}
+
+.contact-form input {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+.contact-form button {
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: #1B95FF;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background: #0056b3;
+}
