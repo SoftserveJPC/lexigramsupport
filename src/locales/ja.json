@@ -100,5 +100,19 @@
     "buttonSend": "送信",
     "emailSubject": "お問い合わせ",
     "emailBody": "私のメール："
-  }
+  },
+  "navbar": {
+      "links": {
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約"
+      }
+    },
+    "footer": {
+      "links": {
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約",
+        "contact": "お問い合わせ"
+      },
+      "copyright": "© 2025 Lexigram 無断転載を禁じます。"
+    }
 }

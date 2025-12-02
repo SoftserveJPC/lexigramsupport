@@ -100,5 +100,19 @@
     "buttonSend": "Отправить email",
     "emailSubject": "Запрос на контакт",
     "emailBody": "Мой email: "
-  }
+  },
+  "navbar": {
+      "links": {
+        "privacy": "Политика конфиденциальности",
+        "terms": "Условия использования"
+      }
+    },
+    "footer": {
+      "links": {
+        "privacy": "Политика конфиденциальности",
+        "terms": "Условия использования",
+        "contact": "Контакт"
+      },
+      "copyright": "© {{year}} Lexigram Все права защищены."
+    }
 }

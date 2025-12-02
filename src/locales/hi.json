@@ -100,5 +100,19 @@
     "buttonSend": "ईमेल भेजें",
     "emailSubject": "संपर्क अनुरोध",
     "emailBody": "मेरा ईमेल: "
-  }
+  },
+  "navbar": {
+      "links": {
+        "privacy": "गोपनीयता नीति",
+        "terms": "सेवा की शर्तें"
+      }
+    },
+    "footer": {
+      "links": {
+        "privacy": "गोपनीयता नीति",
+        "terms": "सेवा की शर्तें",
+        "contact": "संपर्क करें"
+      },
+      "copyright": "© {{year}} Lexigram सर्वाधिकार सुरक्षित।"
+    }
 }

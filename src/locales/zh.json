@@ -100,5 +100,19 @@
     "buttonSend": "发送邮件",
     "emailSubject": "联系请求",
     "emailBody": "我的邮箱："
-  }
+  },
+  "navbar": {
+      "links": {
+        "privacy": "隐私政策",
+        "terms": "服务条款"
+      }
+    },
+    "footer": {
+      "links": {
+        "privacy": "隐私政策",
+        "terms": "服务条款",
+        "contact": "联系"
+      },
+      "copyright": "© 2025 Lexigram 版权所有。"
+    }
 }

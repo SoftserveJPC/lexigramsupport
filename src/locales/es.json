@@ -100,5 +100,19 @@
     "buttonSend": "Enviar correo",
     "emailSubject": "Solicitud de contacto",
     "emailBody": "Mi correo electrónico: "
-  }
+  },
+  "navbar": {
+      "links": {
+        "privacy": "Política de privacidad",
+        "terms": "Términos de servicio"
+      }
+    },
+    "footer": {
+      "links": {
+        "privacy": "Política de privacidad",
+        "terms": "Términos de servicio",
+        "contact": "Contacto"
+      },
+      "copyright": "© 2025 Lexigram Todos los derechos reservados."
+    }
 }
